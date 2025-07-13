@@ -17,4 +17,4 @@ HTML, CSS를 사용해서 만든 저만의 작은 웹사이트입니다.
 [웹사이트 바로가기](https://frozenbone1023.github.io/zbo/)
 
 # 코드 보기
-[깃허브 저장소](https://github.com/frozenbone1023/zbo
+[깃허브 저장소](https://github.com/Frozenbone1023/First_repo)
